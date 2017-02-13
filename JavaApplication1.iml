@@ -52,6 +52,50 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.mongodb:mongo-java-driver:3.4.2">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/3.4.2/5d0448606f5f7f3974dbae69c4ccfffe214ae60d/mongo-java-driver-3.4.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/3.4.2/b354296d5d0869b84f7ea6850faf7d76c04e8e26/mongo-java-driver-3.4.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: ch.qos.logback:logback-classic:1.2.1">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.1/706a8b8206ead3683ec639dd270d11fd948fbb0e/logback-classic-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.1/9fca3c77b4401de7541f01d858b2aec55f4fc51f/logback-classic-1.2.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: ch.qos.logback:logback-core:1.2.1">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.1/378913dfc3c6c71e7e2a2853eff2c3e8ac27599/logback-core-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.1/8025b15884a6a3909c6b0fe881c81b647f2fc7fe/logback-core-1.2.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.slf4j:slf4j-api:1.7.22">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.22/a1c83373863cec7ae8d89dc1c5722d8cb6ec0309/slf4j-api-1.7.22.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.22/2b9722cdf33bd0b1d1639a98034dde38b156ad34/slf4j-api-1.7.22-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library name="Gradle: junit:junit:4.11">
         <CLASSES>
