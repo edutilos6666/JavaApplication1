@@ -1,0 +1,5 @@
+<Person>
+    <Name>${name}</Name>
+    <Age>${age}</Age>
+    <Wage>${wage}</Wage>
+</Person>
